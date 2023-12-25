@@ -12,7 +12,7 @@ This file consists of the details regarding the applications which needs to be i
  4. The Jupyter server will start. You should see some server logs printed. You may be prompted to select an application to open Jupyter in. Firefox or Chrome are preferred.
  5. Within a few minutes, a browser window should open, showing the files and folders located in the folder where you started the Jupyter server.
 
-## Dowload the code files provided in the zipped folder in your local machine:
+## Dowload the code files provided:
 1. Intrusion_Detection_Using_Machine_Learning.ipynb
 
 ## To open the code files on jupyter Notebook:
